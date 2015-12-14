@@ -1,9 +1,9 @@
-# Angular Items or People in Stock store/labor pool.
+# Angular.
 
 This project is generated with Angular and Node.
 
 
 ## Build & development
 
-Run `node server.js` Then navigate to localhost:7000//app/service_http.html for preview.
+Run `node server.js` Then navigate to localhost:7000/ for preview.
 
