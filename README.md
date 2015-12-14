@@ -1,4 +1,4 @@
-# Angular.
+# Angular
 
 This project is generated with Angular and Node.
 
